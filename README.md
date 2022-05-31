@@ -12,6 +12,7 @@
 </p> 
 
 ![](image/Screenshot.png)
+from [@David Revoy's Cover book project](https://www.peppercarrot.com/ph/viewer/artworks__2020-01-25_cover_book-project_by-David-Revoy.html)
 
 **Note**: *It will be slow, if the `kra` file is large*
 
