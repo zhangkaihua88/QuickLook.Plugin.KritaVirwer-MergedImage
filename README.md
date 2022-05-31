@@ -13,10 +13,10 @@
 
 ![](image/Screenshot.png)
 
-**Note**: *It will be blurred, if the `xmind` file is large*
+**Note**: *It will be slow, if the `kra` file is large*
 
 # Method
-- Extracting `MergedImage` file in `xmind`, and save it to plugin folder.
+- Extracting `MergedImage` file in `kra`, and save it to plugin folder.
 - Using `ImageViewer` to display the MergedImage file.
 
 # Download and Installation
@@ -24,7 +24,7 @@
 2. Make sure that you have QuickLook running in the background. Go to your Download folder, and press Spacebar on the downloaded `.qlplugin` file.
 3. Click the "Install" button in the popup window.
 4. Restart QuickLook.
-5. Select the file(`.xmind`) and press Spacebar.
+5. Select the file(`.kra`) and press Spacebar.
 
 
 
